@@ -22,7 +22,7 @@ $colors: (
 );
 
 // @debug map-get($colors, "purple"); // #9900ff
-// @debug map-has-hey($colors, "secondary"); // true
+// @debug map-has-key($colors, "secondary"); // true
 // @debug map-remove($colors, "primary");
 // @debug map-merge($colors, ("pink": #ffc0cb));
 
